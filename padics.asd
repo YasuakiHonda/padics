@@ -1,5 +1,5 @@
 /*
-  maxima-asdf support file for padics
+  maxima-asdf support file for padics package
   written by Yasuaki Honda
   Licensed under GPL 3.0 .
   See LICENSE file for the terms of the license
